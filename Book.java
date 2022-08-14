@@ -34,6 +34,5 @@ public class Book {
 	public String toString() {
 		return ("Title " + title + "\t" + "author: " + author
 				+ "\t" + "price: " + price);
-	} 
-	
+	} 	
 }
