@@ -1,7 +1,6 @@
 // in this class, we instantiate our ArrayLists for the 
 // bookstore search engine
 
-
 import java.util.ArrayList;
 
 public class BookStore {
